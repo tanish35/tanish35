@@ -30,9 +30,8 @@ I'm a first-year IT student at Jadavpur University with a passion for coding, pl
 
 <!-- Blogs and Articles -->
 ## 🎬 Movie and Series Recommendations
-
 ### The Boys
-![The Boys](https://resizing.flixster.com/oynbxA9hJYlfdYfqcy_BrVNu_cQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjczNzIyNC53ZWJw)
+<img src="https://resizing.flixster.com/oynbxA9hJYlfdYfqcy_BrVNu_cQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjczNzIyNC53ZWJw" alt="The Boys" width="100"/>
 
 ### Breaking Bad
 ![Breaking Bad](https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg)
