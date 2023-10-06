@@ -25,12 +25,20 @@ I'm a first-year IT student at Jadavpur University with a passion for coding, pl
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish34/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://darkbyte.online)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/tanishm._29)
 
 
 <!-- Blogs and Articles -->
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🎬 Movie and Series Recommendations
+
+### The Boys
+![The Boys](https://resizing.flixster.com/oynbxA9hJYlfdYfqcy_BrVNu_cQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjczNzIyNC53ZWJw)
+
+### Breaking Bad
+![Breaking Bad](https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg)
+
+### The Mentalist
+![The Mentalist](https://flxt.tmsimg.com/assets/p186597_b_v10_au.jpg)
 
 <!-- Random Quote -->
 ## 🗣️
