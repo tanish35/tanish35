@@ -4,6 +4,11 @@
 <!-- Introduction -->
 I'm a first-year IT student at Jadavpur University with a passion for coding, playing basketball, and exploring the world of technology. Currently, I'm sharpening my skills on platforms like CodeWars.
 
+<!-- Languages Used -->
+## 💻 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish35&layout=compact)
+
+
 <!-- Technologies -->
 ## 💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
