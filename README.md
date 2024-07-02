@@ -48,7 +48,7 @@ I'm a first-year IT student at Jadavpur University with a passion for coding, an
 ![CodeWars Badge](https://www.codewars.com/users/tanish34/badges/large)
 
 <!-- Visitors -->
-[visitors](https://visitor-badge.glitch.me/badge?page_id=tanish35.Portfolio&left_color=green&right_color=red)
+[![](https://visitcount.itsvg.in/api?id=tanish35&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Footer -->
 ---
 
