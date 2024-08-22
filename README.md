@@ -2,7 +2,7 @@
 # Hey, I'm Tanish Majumdar! 👋
 
 <!-- Introduction -->
-I'm a first-year IT student at Jadavpur University with a passion for coding, and exploring the world of technology.
+I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and exploring the world of technology.
 
 <!-- Languages Used -->
 ## 💻 Languages Used
