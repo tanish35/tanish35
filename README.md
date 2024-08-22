@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hey, I'm Tanish Majumdar! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Tanish+Majumdar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Introduction -->
 I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and exploring the world of technology.
