@@ -4,7 +4,6 @@
 <!-- Introduction -->
 I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and exploring the world of technology.
 
-Listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&redirect=true)
 
 <!-- Languages Used -->
