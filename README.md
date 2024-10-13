@@ -37,10 +37,7 @@ I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and 
 
 <!-- Hacktoberfest Badges -->
 ## 🌟 Hacktoberfest Badges
-[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm21vn1qh02120cjy11w8pciu)](https://www.holopin.io/userbadge/cm21vn1qh02120cjy11w8pciu)
-[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm227wq1e83040cmc1eyrg6ee)](https://www.holopin.io/userbadge/cm227wq1e83040cmc1eyrg6ee)
-[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm24q7wli51030cl2x97n96xl)](https://www.holopin.io/userbadge/cm24q7wli51030cl2x97n96xl)
-[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm25uj6jb368950djv53xfu0u1)](https://www.holopin.io/userbadge/cm25uj6jb368950djv53xfu0u1)
+[![Hacktoberfest Badge](https://holopin.me/tanish35)](https://holopin.io/@tanish35)
 
 <!-- CodeWars Badge -->
 ## 💪 CodeWars Badge
