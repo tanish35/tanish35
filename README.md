@@ -35,6 +35,13 @@ I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanish35&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- Hacktoberfest Badges -->
+## 🌟 Hacktoberfest Badges
+[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm21vn1qh02120cjy11w8pciu)](https://www.holopin.io/userbadge/cm21vn1qh02120cjy11w8pciu)
+[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm227wq1e83040cmc1eyrg6ee)](https://www.holopin.io/userbadge/cm227wq1e83040cmc1eyrg6ee)
+[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm24q7wli51030cl2x97n96xl)](https://www.holopin.io/userbadge/cm24q7wli51030cl2x97n96xl)
+[![Hacktoberfest Badge](https://www.holopin.io/userbadge/cm25uj6jb368950djv53xfu0u1)](https://www.holopin.io/userbadge/cm25uj6jb368950djv53xfu0u1)
+
 <!-- CodeWars Badge -->
 ## 💪 CodeWars Badge
 ![CodeWars Badge](https://www.codewars.com/users/tanish34/badges/large)
