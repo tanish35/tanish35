@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Tanish+Majumdar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Introduction -->
-I'm a 2nd-year IT student at Jadavpur University with a passion for coding, and exploring the world of technology.
+I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&redirect=true)
 
