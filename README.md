@@ -4,8 +4,7 @@
 <!-- Introduction -->
 I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3m63350vhs1zwxfgnjcj4if21&redirect=true)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3m63350vhs1zwxfgnjcj4if21&unique={true|1|on|yes})
 <!-- Languages Used -->
 ## 💻 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish35&layout=compact)
