@@ -4,7 +4,7 @@
 <!-- Introduction -->
 I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3m63350vhs1zwxfgnjcj4if21&count={10})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3m63350vhs1zwxfgnjcj4if21&count=10&unique=true)
 <!-- Languages Used -->
 ## 💻 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish35&layout=compact)
