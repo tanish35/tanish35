@@ -4,7 +4,7 @@
 <!-- Introduction -->
 I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3m63350vhs1zwxfgnjcj4if21&count=2&unique=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000485.8dbe6d8f5c4445e4942e7c34d3e87c51.1726)](https://github.com/rayriffy/apple-music-github-profile)
 <!-- Languages Used -->
 ## 💻 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish35&layout=compact)
