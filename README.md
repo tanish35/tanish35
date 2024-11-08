@@ -7,9 +7,9 @@
 I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanish35/tanish35/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanish35/tanish35/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tanish35/tanish35/output/github-snake.svg" />
 </picture>
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000485.8dbe6d8f5c4445e4942e7c34d3e87c51.1726)](https://github.com/rayriffy/apple-music-github-profile)
