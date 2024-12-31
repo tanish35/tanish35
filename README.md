@@ -29,7 +29,7 @@ I'm a 2nd-year IT student at Jadavpur University , exploring the world of techno
 
 ## 📈 GitHub Stats
 
-![Tanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanish35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Tanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanish35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanish35&theme=dark&hide_border=false)<br/>
 
 <!-- Let's Connect -->
