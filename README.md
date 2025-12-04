@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 
-I'm a 2nd-year IT student at Jadavpur University , exploring the world of technology.
+It's me hi,I am the problem it's me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanish35/tanish35/output/github-snake-dark.svg" />
