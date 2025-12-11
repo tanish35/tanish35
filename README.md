@@ -49,7 +49,7 @@ It's me hi,I am the problem it's me
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanish35&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-one-sooty.vercel.app/?username=tanish35&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Hacktoberfest Badges -->
 
