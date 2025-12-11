@@ -17,7 +17,7 @@ It's me hi,I am the problem it's me
 
 ## 💻 Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish35&layout=compact)
+![Top Langs](https://github-readme-stats-minhdvus-projects.vercel.app/api/top-langs/?username=tanish35&layout=compact)
 
 <!-- Technologies -->
 
@@ -30,7 +30,7 @@ It's me hi,I am the problem it's me
 ## 📈 GitHub Stats
 
 ![Tanish's GitHub Stats](https://tanish34-stats.vercel.app/api?username=tanish35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanish35&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats-minhdvus-projects.vercel.app/?user=tanish35&theme=dark&hide_border=false)<br/>
 
 <!-- Let's Connect -->
 
