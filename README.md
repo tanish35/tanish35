@@ -32,6 +32,8 @@ It's me hi,I am the problem it's me
 ![Tanish's GitHub Stats](https://github-readme-stats-minhdvus-projects.vercel.app/api?username=tanish35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)<br/>
 ![](https://github-readme-streak-stats-minhdvus-projects.vercel.app/?user=tanish35&theme=dark&hide_border=false)<br/>
 
+[![Tanish Majumdar profile views](https://u8views.com/api/v1/github/profiles/142332924/views/day-week-month-total-count.svg)](https://u8views.com/github/tanish35)
+
 <!-- Let's Connect -->
 
 ## 🤝 Let's Connect
