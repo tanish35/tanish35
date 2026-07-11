@@ -25,11 +25,26 @@ def daily_readme(birthday):
         ' 🎂' if diff.months == 0 and diff.days == 0 else '')
 
 
+def graphql_request(query, variables, max_retries=5):
+    """
+    POST to GitHub GraphQL with retries on transient gateway errors.
+    """
+    for attempt in range(max_retries):
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables': variables}, headers=HEADERS)
+        if request.status_code == 200:
+            return request
+        if request.status_code in (502, 503, 504) and attempt < max_retries - 1:
+            time.sleep(2 ** attempt)
+            continue
+        return request
+    return request
+
+
 def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
+    request = graphql_request(query, variables)
     if request.status_code == 200:
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
@@ -129,7 +144,8 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         }
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
+    # Cannot use simple_request(); must save the cache file before raising
+    request = graphql_request(query, variables)
     if request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
